@@ -67,7 +67,7 @@ public class Cat extends Animal{
 }
 ```
 
-<b>Question : What are the differences between `Interface` and `Abstrac`?</b>     
+<b>Question : What are the differences between `Interface` and `Abstract`?</b>     
 
 There are mainly two differences between `Interface` and `Abstract`.     
 
