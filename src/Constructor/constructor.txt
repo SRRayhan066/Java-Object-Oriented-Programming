@@ -1,0 +1,10 @@
+Q. What is constructor?
+Ans : It is a special type of method to initialize an object.
+
+Q. What is constructor overloading?
+Ans : Multiple constructor with different parameter list.
+
+# Note for constructors
+
+We can use access modifiers while declaring a constructor. It controls the object creation. In other words,
+we can have private, protected, public or default constructor in Java.

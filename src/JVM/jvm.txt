@@ -1,0 +1,20 @@
+Q. Why java is platform independent?
+Ans: In one sentence, Java is dependent on platform middleware(JVM) rather than OS.
+
+Generally, After execution of a code, a .exe file is created by the compiler. If the language is not Java and the .exe file is created in
+WINDOWS, then it will not run on the UNIX operating system even if the machine is the same. Same with the UNIX operating system. Because
+the communication path of an application is,
+
+    Application -> Operating System -> Hardware.
+
+To run an application, it is mandatory to match the OS.
+
+In Java, there is a platform middleware called JVM. For different types of operating systems, different types of JVM is available.
+A Java application is dependent on JVM and JVM connects the application with OS. The path for Java applications is,
+
+    Application -> Platform Middleware(JVM) -> Operating System -> Hardware
+
+So if a Java program has compiled in WINDOWS, and needs to run in the UNIX operating system then the JVM that exists in that machine will
+modify the machine code according to the OS.
+
+And this is how Java becomes platform independent.

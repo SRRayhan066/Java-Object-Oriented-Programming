@@ -1,0 +1,10 @@
+Q. What is static keyword use for?
+Ans: For memory management.
+
+Q. Static Keyword
+Ans: Static keyword is associated with a class rather than an instance of a class. A static method can be invoked without using
+instance of a class.
+
+Q. Why main method is static method?
+Ans: Because it doesn't belong to any class. If it was non-static then we had to create an instance of that class first and after that
+we could use that.

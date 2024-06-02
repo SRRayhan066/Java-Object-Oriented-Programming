@@ -1,0 +1,2 @@
+Q. Why we use Encapsulation?
+Ans: To control data assigning.

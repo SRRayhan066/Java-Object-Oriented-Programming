@@ -1,0 +1,5 @@
+Q. What is checked exception?
+Ans: The exception that are checked in compile time is called checked exception. It is handled using try,catch.
+
+Q. What is unchecked exception?
+Ans: This are checked in runtime. Try-catch is not used here.

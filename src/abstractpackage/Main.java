@@ -1,11 +1,7 @@
-import abstractpackage.Cat;
-
-import java.util.*;
+package abstractpackage;
 
 public class Main {
-
     public static void main(String[] args) {
-
 
     }
 }

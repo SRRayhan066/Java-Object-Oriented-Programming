@@ -1,0 +1,2 @@
+Q. What is Accessor and Mutator method?
+Ans : getter(read data) , Mutator(set data).

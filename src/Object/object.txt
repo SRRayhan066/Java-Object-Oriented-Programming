@@ -1,0 +1,23 @@
+Q. What is object?
+Ans : A object is an instance of a class.
+
+Q. Characteristics of object?
+Ans : State(data of an object), Behavior(functionality), Identity(Used by JVM to identify object uniquely)
+
+Q. What is class?
+Ans : A class is a collection of objects.
+
+Q. What is Inheritance?
+Ans : When an object acquires all the properties of another object is called inheritance.
+
+Q. What is Polymorphism?
+Ans : If one task performs in many way then it is called polymorphism.
+
+Q. What is Abstraction?
+Ans : Hiding internal details and showing functionality is known as abstraction.
+
+Q. What is Encapsulation?
+Ans : Binding code and data together into a single unit is called encapsulation.
+
+
+
