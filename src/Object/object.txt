@@ -5,7 +5,7 @@ Q. Characteristics of object?
 Ans : State(data of an object), Behavior(functionality), Identity(Used by JVM to identify object uniquely)
 
 Q. What is class?
-Ans : A class is a collection of objects.
+Ans : A class is a collection of objects or blueprint of an object.
 
 Q. What is Inheritance?
 Ans : When an object acquires all the properties of another object is called inheritance.
