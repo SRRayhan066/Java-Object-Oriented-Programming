@@ -1,0 +1,11 @@
+Q. Describe Access Modifier.
+Ans: Access modifier helps to restrict the class,method,constructor and provide security, accessibility.
+
+Default: Accessible only within the same package.
+
+Private: Accessible only within the class.
+
+Protected: Accessible within the same package and the subclass of different package.
+
+Public: Accessible from everywhere.
+
